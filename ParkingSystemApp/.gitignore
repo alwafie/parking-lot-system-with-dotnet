@@ -1,0 +1,59 @@
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]eploy/
+[Dd]eployment/
+[Ll]og/
+[Ll]ogs/
+
+# Ignore Visual Studio for Mac configuration folder
+.vscode/
+
+# User-specific files
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files (Windows)
+Thumbs.db
+ehthumbs.db
+
+# Ignore JetBrains Rider configuration folder
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET Core SDK
+project.lock.json
+project.fragment.lock.json
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs2019/
+.vs2017/
+
+# Build output
+bin/
+obj/
+
+# ASP.NET Core
+wwwroot/
